@@ -1,0 +1,24 @@
+#mapid {
+    flex: 1;
+}
+
+#cesiumContainer {
+    flex: 1;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.outer {
+    display: flex;  /* use the flex model */
+    min-height: 100%;
+    flex-direction: column;
+}
+
+.navbar {
+    margin-bottom: 0 !important;
+
+}

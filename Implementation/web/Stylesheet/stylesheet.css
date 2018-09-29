@@ -1,0 +1,31 @@
+.liMargin {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.campaignDetails {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: small;
+}
+
+.campaignName {
+    font-size: medium;
+}
+
+.top-buffer{
+    margin-top: 20px;
+}
+
+.drop-zone {
+    border: 2px dashed lightgrey;
+}
+
+.marginUnderRow {
+    margin-bottom: 5px;
+}
+
+#inputTextFieldset {
+    margin-bottom: 10px;
+}
