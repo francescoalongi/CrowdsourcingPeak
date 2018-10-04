@@ -1,5 +1,5 @@
 # Crowdsourcing Peak
-The aim of this project is to validate a set of peaks using the crowdsourcing approach.
+The aim of this project is to permit users to validate a set of peaks using the crowdsourcing approach.
 
 ## Project  overview
 It is a web application in which a user can sign up as either Worker or Manager, dependending on the role he wants to assume.
